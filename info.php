@@ -1,6 +1,6 @@
 
 <?php // PHP start tag
-
+phpinfo();
 echo ('hello <br>');
 echo'aashish <br>';
 print"mali";
